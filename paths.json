@@ -1,5 +1,10 @@
 {
   "mappings": [
-    "/:/"
+    "/content/reshad-eds-site/:/",
+    "/content/reshad-eds-site/configuration:/.helix/config.json",
+    "/content/reshad-eds-site/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/reshad-eds-site/"
   ]
 }
